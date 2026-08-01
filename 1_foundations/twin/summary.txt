@@ -1,2 +1,13 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Abhishek Jha
+Application Development Specialist in Industrial Automation and IOT
+Bengaluru, Karnataka, India
+Summary
+Having 10 Years of experience in software development.
+Experience in developing Web based applications And Widows
+Based Application using C#.Net,WPF,WCF,Angular, Microsoft
+Technologies and SQL Server 2008. Have good experience
+in Object Oriented Analysis & Design (OOAD) with extensive
+experience in the full life cycle of the software design process
+including requirements definition, prototyping, proof of concept,
+design, interface implementation, testing, maintenance, and user
+training for a web based Application and application support.
